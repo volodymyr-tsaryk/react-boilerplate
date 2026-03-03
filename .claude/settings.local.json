@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(printf react-boilerplate\\\\ny\\\\n:*)",
+      "Bash(expect:*)",
+      "Bash(npm create:*)",
+      "Bash(npx create-vite:*)",
+      "Bash(cp:*)",
+      "Bash(git:*)",
+      "Bash(npm install:*)",
+      "Bash(timeout 15 npm run:*)",
+      "Bash(npm run:*)",
+      "Bash(npx playwright:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm test:*)",
+      "Bash(npm uninstall:*)"
+    ]
+  }
+}
