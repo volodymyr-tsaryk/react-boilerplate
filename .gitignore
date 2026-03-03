@@ -1,0 +1,31 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Claude Code
+.claude/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Test artifacts
+coverage/
+playwright-report/
+test-results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+.claude/todos/
+.claude/cache/
+.claude/*.local.*
